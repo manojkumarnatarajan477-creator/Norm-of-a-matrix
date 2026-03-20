@@ -41,15 +41,16 @@ print("{:.2f}".format(inf_matrix))
 ```
 ## Output:
 ### 1-Norm of a Matrix
-<img width="1462" height="715" alt="Mathsforai ex-7(a)" src="https://github.com/user-attachments/assets/0d6c4dbf-26c8-4e8f-8337-4b0c0d7b7280" />
+![alt text](mathsforai-ex7(a).png)
+
 
 
 ### 2-Norm of a Matrix
-<img width="1473" height="775" alt="Mathsforai ex-7(b)" src="https://github.com/user-attachments/assets/93f2ff89-4e42-455a-90f3-d22bee6f4d4e" />
+![alt text](mathsforai-ex7(b).png)
 
 
 ### Infinity Norm of a Matrix
-<img width="1463" height="703" alt="Mathsforai ex-7(c)" src="https://github.com/user-attachments/assets/1d541e02-0832-474b-9bd0-027032a16427" />
+![alt text](mathsforai-ex7(c).png)
 
 
 ## Result
